@@ -5,7 +5,7 @@
   <li>Python</li>
   <li>PHP</li>
   <li>MySQL</li>
-  <li>React.JS e Node.JS</li>
+  <li>Node.JS</li>
   <li>Interface Design (UI/UX)</li>
 </ul>
 
